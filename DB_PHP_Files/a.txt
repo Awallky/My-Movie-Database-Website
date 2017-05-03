@@ -1,0 +1,1 @@
+This folder contains the files necessary to run a movie database created by Adam Walls.
